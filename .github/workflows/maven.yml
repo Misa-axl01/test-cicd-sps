@@ -41,8 +41,7 @@ jobs:
     - uses: actions/upload-artifact@v3
       with:
         name: Package
-        path: staging
-    - name: Deploy    
+        path: staging    
     - run: mvn deploy
 
     # Optional: Uploads the full dependency graph to GitHub to improve the quality of Dependabot alerts this repository can receive
