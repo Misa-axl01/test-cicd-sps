@@ -45,12 +45,5 @@
 			</plugin>
 		</plugins>
 	</build>
-	<distributionManagement>
-            <repository>
-               <id>github</id>
-               <name>GitHub Misa-axl01 Apache Maven Packages</name>
-               <url>https://maven.pkg.github.com/Misa-axl01/test-cicd-sps</url>
-            </repository>
-        </distributionManagement>
 
 </project>
