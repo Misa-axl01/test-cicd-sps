@@ -50,7 +50,6 @@
             <id>github</id>
             <name>GitHub Misa-axl01 Apache Maven Packages</name>
             <url>https://github.com/Misa-axl01/test-cicd-sps</url>
-   </repository>
-</distributionManagement>
-
+          </repository>
+        </distributionManagement>
 </project>
